@@ -1,7 +1,11 @@
-html, body {
-  margin: 0;
-  padding: 0;
-}
-canvas{
-  border: 2px solid black;
-}
+tml, body {
+    margin: 0;
+    padding: 0;
+  }
+  canvas {
+    display: block;
+    border: 5px solid maroon;
+    margin-right:auto;
+    margin-left:auto;
+    margin-top: 100px;
+  }
